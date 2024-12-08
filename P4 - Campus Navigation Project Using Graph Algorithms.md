@@ -102,6 +102,7 @@ Github: pesantossandoval<br>
 -If you are unable to read files using Visual Studio Code, use  IntelliJ Idea, or us your terminal built into your computer, or terminal built into Visual Studio Code.</p>
 <h3 id="test-instructions"><strong>Test Instructions:</strong></h3>
 <p>Program handles Case Sensitivity: Enter building names in various cases (e.g., <code>library</code>, <code>LIBRARY</code>, <code>LiBrArY</code>).</p>
+<p><strong>To exit the program:</strong> Enter <code>5 or 0</code> or type <code>exit</code> when asked to <code>Enter Choice:</code></p>
 <ol>
 <li>
 <p><strong>Download Required Files:</strong></p>
